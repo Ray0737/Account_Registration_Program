@@ -1,5 +1,5 @@
 # Account Registration Program
-Side Project (2)
+Side Project 
 
 Purpose: Practice using the Haslib Module for storing passwords.
 
