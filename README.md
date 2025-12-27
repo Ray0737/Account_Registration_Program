@@ -1,5 +1,5 @@
 # Account Registration Program
-Side Project | NOTED: I modified this code from the internet.
+Side Project 
 
 ---
 
