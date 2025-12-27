@@ -1,9 +1,20 @@
 # Account Registration Program
-Side Project 
+Side Project | NOTED: I modified this code from the internet.
 
-Purpose: Practice using the Haslib Module for storing passwords.
+---
 
+## Project Status:
 
-Current Version: 1.0.0
+| Detail | Value |
+| :--- | :--- |
+| **Purpose** | Hashlib Module Practice |
+| **Current Version** | 1.0.0 |
+| **Latest Edit** | N/A|
+
+---
+
+## ⚠️ Deployment Note:
+
+This code will output the result in the terminal only.
 
 
